@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.61.0 (2021-09-28)
+
+
+### Bug Fixes
+
+* adding npm script for build:minor:remote:ci ([ad8f0f5](https://github.com/dendronhq/dendron/commit/ad8f0f5ff50111274b4468e45ffa59d66d82c555))
+
+
+
+
+
 ## [0.60.3-alpha.0](https://github.com/dendronhq/dendron/compare/v0.53.0...v0.60.3-alpha.0) (2021-09-28)
 
 
